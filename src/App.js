@@ -1,8 +1,8 @@
 import React from "react";
-import { Route, Routes, BrowserRouter, Navigate } from "react-router-dom";
 
 import "./App.css";
 import Header from "./Header";
+import Home from "./pages/Home";
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
       <div className="appContainer">
         <h1>Hello, NewyorkTimes API</h1>
         <Header />
+        <Home />
       </div>
     </>
   );
