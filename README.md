@@ -16,13 +16,6 @@ nyt-api를 이용하여 뉴스를 검색하고, 검색한 단어에 따른 검�
 </div>
 <br /><br />
 
-## 팀원 및 역할
-
-- 방예서, 전찬민 : Input, History
-
-- 김승원, 김보우, 임수빈 : Header, List, ListItem, Clip
-<br /><br />
-
 ## 기간
 2022.06.13 ~ 2022.06.22
 <br /><br />
